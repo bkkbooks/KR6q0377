@@ -1,0 +1,198 @@
+canonical_identifier: bkk:krp/KR6q0377/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0377/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 薦福承古禪師語錄
+  identifiers:
+    krp: KR6q0377
+    cbeta: X73n1447
+    cbeta_old_id: X73n1447
+    authorityid: CA0001543
+    json_key: X1447
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X73/X73n1447.xml
+    old_id: X73n1447
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0377_000-X.yaml, hash: 'sha256:020ab046e996d73b4538a79cf4cc393105160b387d104676b20f91ede82030b0'}
+  - {seq: 1, filename: KR6q0377_001-X.yaml, hash: 'sha256:dd791977476965a997853b149edf8a1bb5adc08e1d67bd33cc1c4837924dcc74'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0377_000-X.markers.yaml, hash: 'sha256:1ce93f3e8ae20b13eee62896ffb3127de5d4b8a7db447302cd941abc78516cd5'}
+  - {seq: 1, role: markers, filename: assets/KR6q0377_001-X.markers.yaml, hash: 'sha256:6ab84dee502ba5bdedd978d2abb3f6fb637a11dae5ed1d98cf50ca6b25c59328'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0377_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1447-A 前序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0377_X_000-mulu-2
+    span:
+    - front
+    - 156
+    - 156
+  label: No. 1447-B
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 16547
+  label: 古禪師語錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 上堂語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-2
+    span:
+    - body
+    - 7248
+    - 7248
+  label: 小參語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-3
+    span:
+    - body
+    - 14858
+    - 14858
+  label: 偈頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-4
+    span:
+    - body
+    - 14860
+    - 14860
+  label: 知見謠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-5
+    span:
+    - body
+    - 15087
+    - 15087
+  label: 師有頌與官人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-6
+    span:
+    - body
+    - 15145
+    - 15145
+  label: 牧牛歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-7
+    span:
+    - body
+    - 15209
+    - 15209
+  label: 回法嗣弟子
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-8
+    span:
+    - body
+    - 15254
+    - 15254
+  label: 官人乞頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-9
+    span:
+    - body
+    - 15278
+    - 15278
+  label: 與范文正公
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-10
+    span:
+    - body
+    - 15311
+    - 15311
+  label: 辭世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-11
+    span:
+    - body
+    - 15353
+    - 15353
+  label: No. 1447-C
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-12
+    span:
+    - body
+    - 15353
+    - 15353
+  label: 語要
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-13
+    span:
+    - body
+    - 15824
+    - 15824
+  label: 題古塔主論三玄三要法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0377_X_001-mulu-14
+    span:
+    - body
+    - 16286
+    - 16286
+  label: 題古塔主兩種自己
+  type: mulu
+  level: 1
+hash: sha256:3c6c449562d5677a0b6177b3c93e0b2ec10b09668c6688b1a539eef67cd4661d
