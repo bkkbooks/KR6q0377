@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0377_000.yaml, hash: 'sha256:3b3f3663494f71f3d06161649b3537a6380ad0b8becf9b4b10e6920760737ff7'}
-  - {seq: 1, filename: KR6q0377_001.yaml, hash: 'sha256:4b2b1a13341adf1a0a7716ba34a3917526b37ba93ed6ddd3307e058791383a18'}
+  - {seq: 0, filename: KR6q0377_000.yaml, hash: 'sha256:020ab046e996d73b4538a79cf4cc393105160b387d104676b20f91ede82030b0'}
+  - {seq: 1, filename: KR6q0377_001.yaml, hash: 'sha256:dd791977476965a997853b149edf8a1bb5adc08e1d67bd33cc1c4837924dcc74'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0377_000.markers.yaml, hash: 'sha256:b93ea180fe12ade0e9b3b06d9e54c284e5a73065592a8d81c4a3e4242a9d73cf'}
-  - {seq: 1, role: markers, filename: assets/KR6q0377_001.markers.yaml, hash: 'sha256:cf8f6d2daf228cbb20289c34a66e4082e884adcb20ab11c2a7c9ec4855cc0518'}
+  - {seq: 0, role: markers, filename: assets/KR6q0377_000.markers.yaml, hash: 'sha256:6775c48e6036542c2b2ac1311aa6ad55959d92a8003c8a06025d221993779c1d'}
+  - {seq: 1, role: markers, filename: assets/KR6q0377_001.markers.yaml, hash: 'sha256:915d97e280ba9491fd43712fff92983aeb19a1874f1eccb4f1c07dcbf3143975'}
 table_of_contents:
 - ref:
     seq: 0
@@ -197,7 +197,4 @@ table_of_contents:
   label: 題古塔主兩種自己
   type: mulu
   level: 1
-hash: sha256:11895d0d4e3ecd45e6ea57c305297488bd9cef20d668f7df4b440007f8ee5e76
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7dd5229d490292cec95f8792976a25da3f99dafe554c5fc2ecd5fe2fb1727fa3
