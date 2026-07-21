@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0377_000-X.yaml, hash: 'sha256:020ab046e996d73b4538a79cf4cc393105160b387d104676b20f91ede82030b0'}
+  - {seq: 0, filename: KR6q0377_000-X.yaml, hash: 'sha256:c69e5a6c0fd22a86b14b54cdde35d59c29d0b001c40826a489cbae451f0fa555'}
   - {seq: 1, filename: KR6q0377_001-X.yaml, hash: 'sha256:dd791977476965a997853b149edf8a1bb5adc08e1d67bd33cc1c4837924dcc74'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0377_000-X.markers.yaml, hash: 'sha256:1ce93f3e8ae20b13eee62896ffb3127de5d4b8a7db447302cd941abc78516cd5'}
+  - {seq: 0, role: markers, filename: assets/KR6q0377_000-X.markers.yaml, hash: 'sha256:a259915b68dc2603d4b1993429ecb23a30dda2afea3a646fdad24ca328284f61'}
   - {seq: 1, role: markers, filename: assets/KR6q0377_001-X.markers.yaml, hash: 'sha256:6ab84dee502ba5bdedd978d2abb3f6fb637a11dae5ed1d98cf50ca6b25c59328'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0377_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1447-A 前序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0377_X_000-mulu-2
     span:
-    - front
+    - body
     - 156
     - 156
   label: No. 1447-B
@@ -195,4 +195,4 @@ table_of_contents:
   label: 題古塔主兩種自己
   type: mulu
   level: 1
-hash: sha256:3c6c449562d5677a0b6177b3c93e0b2ec10b09668c6688b1a539eef67cd4661d
+hash: sha256:b170a6aa316a8380ee9676cb8f9821ee695b9819aca60ae4cbadf37b727283b1
